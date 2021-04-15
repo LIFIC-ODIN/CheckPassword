@@ -1,4 +1,4 @@
-package com.a90ms.checkpassword
+package com.odin.checkpassword
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

@@ -1,4 +1,4 @@
-package com.a90ms.checkpassword
+package com.odin.checkpassword
 
 import org.junit.Test
 
